@@ -1,0 +1,36 @@
+body {
+  font: 14pt Arial;
+}
+
+
+img {
+  border-radius: 15px;
+  width: 200px
+}
+
+.teacher {
+  border-radius: 15px;
+  display: flex;
+  padding: 15px 25px;
+  background-color: #EBEBEB;
+}
+.character {
+  text-align: justify;
+}
+
+.link a {
+  background-color: #EBEBEB;
+  margin: 0px 15px;
+  padding: 35px 55px;
+  border-radius: 15px;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+
+.link {
+  padding: 35px 0px;
+  display: flex;
+  flex-wrap: nowrap;
+}
